@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data & heavy artefacts
+data/
+datasets/
+*.zip
+*.tar
+*.pth
+*.pt
+*.ckpt
+outputs/*.pth
+outputs/*.pt
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
